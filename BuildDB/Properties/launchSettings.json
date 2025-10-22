@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BuildDB": {
+      "commandName": "Project",
+      "commandLineArgs": "JimsLib"
+    }
+  }
+}
