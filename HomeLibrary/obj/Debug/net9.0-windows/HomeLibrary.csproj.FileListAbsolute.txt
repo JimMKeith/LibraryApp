@@ -1,0 +1,17 @@
+E:\projects\C#\LibraryApp\HomeLibrary\bin\Debug\net9.0-windows\HomeLibrary.exe
+E:\projects\C#\LibraryApp\HomeLibrary\bin\Debug\net9.0-windows\HomeLibrary.deps.json
+E:\projects\C#\LibraryApp\HomeLibrary\bin\Debug\net9.0-windows\HomeLibrary.runtimeconfig.json
+E:\projects\C#\LibraryApp\HomeLibrary\bin\Debug\net9.0-windows\HomeLibrary.dll
+E:\projects\C#\LibraryApp\HomeLibrary\bin\Debug\net9.0-windows\HomeLibrary.pdb
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.HomeForm.resources
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.MainForm.resources
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.csproj.GenerateResource.cache
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.AssemblyInfoInputs.cache
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.AssemblyInfo.cs
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.csproj.CoreCompileInputs.cache
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.dll
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\refint\HomeLibrary.dll
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.pdb
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\HomeLibrary.genruntimeconfig.cache
+E:\projects\C#\LibraryApp\HomeLibrary\obj\Debug\net9.0-windows\ref\HomeLibrary.dll
