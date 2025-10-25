@@ -38,7 +38,7 @@
             textBox1.ReadOnly = true;
             textBox1.Size = new Size(404, 35);
             textBox1.TabIndex = 0;
-            textBox1.Text = "Welome to the Branch";
+            textBox1.Text = "The Desktop Catalog ";
             textBox1.TextChanged += textBox1_TextChanged;
             // 
             // MainForm

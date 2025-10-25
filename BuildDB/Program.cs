@@ -1,4 +1,13 @@
-﻿using JimKeith.BuildDB;
+﻿/* ***************************************************
+ * Catalog 
+ * Cloned from the LibraryApp and modified to be a 
+ * system to store and catalog a user set of files
+ * 
+ * BuilDB Program builds a database to support the 
+ * Catalog application
+ * *************************************************/
+
+using JimKeith.BuildDB;
 using System;
 using System.Data.SQLite;
 using System.Diagnostics;

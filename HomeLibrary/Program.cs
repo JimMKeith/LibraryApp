@@ -1,3 +1,15 @@
+/* ***************************************************
+ * Catalog 
+ * Cloned from the LibraryApp and modified to be a 
+ * system to store and catalog a user set of files
+ * 
+ * HomeLibrary a personal library management system
+ * A windows Form application to browse the accumulated
+ * collection of files with metadata. Users can update 
+ * the collection, store and fetch and delete files for
+ * their personal use.
+ * *************************************************/
+
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.Intrinsics.Arm;
 

@@ -71,7 +71,7 @@
             textBox1.ReadOnly = true;
             textBox1.Size = new Size(553, 35);
             textBox1.TabIndex = 3;
-            textBox1.Text = "Welome To The Home Library";
+            textBox1.Text = "Desktop Catalog";
             textBox1.TextAlign = HorizontalAlignment.Center;
             textBox1.TextChanged += textBox1_TextChanged_1;
             // 
